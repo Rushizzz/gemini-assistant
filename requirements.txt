@@ -1,0 +1,10 @@
+pygame==2.5.2
+PyOpenGL==3.1.7
+numpy==1.24.3
+sounddevice==0.4.6
+pydub==0.25.1
+requests==2.31.0
+murf==0.1.0
+google-generativeai==0.3.2
+SpeechRecognition==3.10.0
+python-dotenv==1.0.0 
